@@ -1,2 +1,2 @@
 # ML Optimiation Algorithms
- Python implemention of some different machine learning optimization algorithm
+ Python implemention of some different machine learning optimization algorithms
